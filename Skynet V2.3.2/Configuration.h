@@ -1120,7 +1120,7 @@
 //#define ANET_KEYPAD_LCD
 //#define ANET_FULL_GRAPHICS_LCD
 // RepRap Discount (with Anet Adapter wiring see: http://www.thingiverse.com/thing:2103748)
-#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
+//#define ANET_KEYPAD_LCD 
 
 //
 // SD CARD
@@ -1286,7 +1286,7 @@
 // RepRapDiscount FULL GRAPHIC Smart Controller
 // http://reprap.org/wiki/RepRapDiscount_Full_Graphic_Smart_Controller
 //
-#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
+//#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
 
 //
 // MakerLab Mini Panel with graphic
