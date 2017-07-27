@@ -28,3 +28,6 @@ Skynet firmware for anet A8 with MKS V1.5 controller board and TFT28 <br>
 
 <b>Endstop microswitches:</b> <br>
 part#: ES3RL
+
+# Wiring
+Endstop switches and Steppers need to have some pins swapped in the wiring setup.  The steppers need the Blue and red wires swapped in the connector end into the controller board.  The Endstops need the wires in the connecter swapped as well as resoldered to C and NC.  (Pics show wiring)
